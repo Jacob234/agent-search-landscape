@@ -62,3 +62,11 @@ Data collection status for Part 1.
 ---
 
 **Total**: 22 tools | **Completed**: 5/22
+
+---
+
+## Research Documents
+
+| Document | File | Status |
+|----------|------|--------|
+| Search Benchmarks Survey | [search-benchmarks.md](../docs/research/search-benchmarks.md) | Complete (medium confidence) |
