@@ -6,11 +6,11 @@ Data collection status for Part 1.
 
 | Tool | File | Status |
 |------|------|--------|
-| Tavily | [tavily.md](tools/search-apis/tavily.md) | Pending |
-| Exa | [exa.md](tools/search-apis/exa.md) | Pending |
-| Perplexity Sonar | [perplexity-sonar.md](tools/search-apis/perplexity-sonar.md) | Pending |
-| SerpAPI | [serpapi.md](tools/search-apis/serpapi.md) | Pending |
-| Brave Search | [brave-search.md](tools/search-apis/brave-search.md) | Pending |
+| Tavily | [tavily.md](tools/search-apis/tavily.md) | Complete (high confidence) |
+| Exa | [exa.md](tools/search-apis/exa.md) | Complete (medium-high confidence) |
+| Perplexity Sonar | [perplexity-sonar.md](tools/search-apis/perplexity-sonar.md) | Complete (medium confidence) |
+| SerpAPI | [serpapi.md](tools/search-apis/serpapi.md) | Complete (medium confidence) |
+| Brave Search | [brave-search.md](tools/search-apis/brave-search.md) | Complete (high confidence) |
 
 ## Scraping & Extraction
 
@@ -61,4 +61,12 @@ Data collection status for Part 1.
 
 ---
 
-**Total**: 22 tools | **Completed**: 0/22
+**Total**: 22 tools | **Completed**: 5/22
+
+---
+
+## Research Documents
+
+| Document | File | Status |
+|----------|------|--------|
+| Search Benchmarks Survey | [search-benchmarks.md](../docs/research/search-benchmarks.md) | Complete (medium confidence) |
